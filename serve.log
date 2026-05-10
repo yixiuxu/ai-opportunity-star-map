@@ -1,0 +1,41 @@
+ INFO  Accepting connections at http://localhost:4173
+ HTTP  2026/5/10 19:03:27 127.0.0.1 GET /
+ HTTP  2026/5/10 19:03:27 127.0.0.1 Returned 200 in 45 ms
+ HTTP  2026/5/10 19:04:59 ::1 GET /
+ HTTP  2026/5/10 19:04:59 ::1 Returned 200 in 3 ms
+ HTTP  2026/5/10 19:07:37 127.0.0.1 GET /
+ HTTP  2026/5/10 19:07:37 127.0.0.1 Returned 200 in 5 ms
+ HTTP  2026/5/10 19:07:37 127.0.0.1 GET /assets/index-CIZxqb7m.js
+ HTTP  2026/5/10 19:07:37 127.0.0.1 GET /assets/index-BX02YdCJ.css
+ HTTP  2026/5/10 19:07:37 127.0.0.1 GET /assets/types-DwavEmkf.js
+ HTTP  2026/5/10 19:07:37 127.0.0.1 Returned 200 in 11 ms
+ HTTP  2026/5/10 19:07:37 127.0.0.1 Returned 200 in 17 ms
+ HTTP  2026/5/10 19:07:37 127.0.0.1 Returned 200 in 26 ms
+ HTTP  2026/5/10 19:07:37 127.0.0.1 GET /assets/StarMap3D-4mxqyllH.js
+ HTTP  2026/5/10 19:07:37 127.0.0.1 Returned 200 in 13 ms
+ HTTP  2026/5/10 19:07:53 127.0.0.1 GET /
+ HTTP  2026/5/10 19:07:53 127.0.0.1 Returned 200 in 1 ms
+ HTTP  2026/5/10 19:07:53 127.0.0.1 GET /assets/index-CIZxqb7m.js
+ HTTP  2026/5/10 19:07:53 127.0.0.1 Returned 200 in 1 ms
+ HTTP  2026/5/10 19:07:53 127.0.0.1 GET /assets/index-BX02YdCJ.css
+ HTTP  2026/5/10 19:07:53 127.0.0.1 GET /assets/types-DwavEmkf.js
+ HTTP  2026/5/10 19:07:53 127.0.0.1 Returned 200 in 2 ms
+ HTTP  2026/5/10 19:07:53 127.0.0.1 Returned 200 in 2 ms
+ HTTP  2026/5/10 19:07:53 127.0.0.1 GET /assets/StarMap3D-4mxqyllH.js
+ HTTP  2026/5/10 19:07:53 127.0.0.1 Returned 200 in 2 ms
+ HTTP  2026/5/10 19:07:54 127.0.0.1 GET /assets/GraphView-CF8B_V27.js
+ HTTP  2026/5/10 19:07:54 127.0.0.1 Returned 200 in 4 ms
+ HTTP  2026/5/10 19:07:56 127.0.0.1 GET /assets/TimelineView-CmHVzWrI.js
+ HTTP  2026/5/10 19:07:56 127.0.0.1 Returned 200 in 9 ms
+ HTTP  2026/5/10 19:07:58 127.0.0.1 GET /
+ HTTP  2026/5/10 19:07:58 127.0.0.1 Returned 304 in 2 ms
+ HTTP  2026/5/10 19:07:58 127.0.0.1 GET /assets/index-CIZxqb7m.js
+ HTTP  2026/5/10 19:07:58 127.0.0.1 GET /assets/index-BX02YdCJ.css
+ HTTP  2026/5/10 19:07:58 127.0.0.1 GET /assets/types-DwavEmkf.js
+ HTTP  2026/5/10 19:07:58 127.0.0.1 Returned 304 in 2 ms
+ HTTP  2026/5/10 19:07:58 127.0.0.1 Returned 304 in 3 ms
+ HTTP  2026/5/10 19:07:58 127.0.0.1 Returned 304 in 3 ms
+ HTTP  2026/5/10 19:07:58 127.0.0.1 GET /assets/StarMap3D-4mxqyllH.js
+ HTTP  2026/5/10 19:07:58 127.0.0.1 Returned 304 in 1 ms
+ HTTP  2026/5/10 19:10:20 ::1 GET /
+ HTTP  2026/5/10 19:10:20 ::1 Returned 200 in 8 ms
